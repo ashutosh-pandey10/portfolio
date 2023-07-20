@@ -1,0 +1,86 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/sqlite.png",
+                    "title": "SQLite"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/oracledb.png",
+                    "title": "Oracle DB"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML5"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS3"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
+                },
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/vuejs.png",
+                    "title": "Vue.JS"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/github.png",
+                    "title": "Github"
+                },
+                {
+                    "icon": "images/skills/bitbucket.png",
+                    "title": "Bitbucket"
+                },
+                {
+                    "icon": "images/skills/openshift.png",
+                    "title": "Openshift"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                }
+            ]
+    }
+]}

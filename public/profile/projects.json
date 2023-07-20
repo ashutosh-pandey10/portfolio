@@ -1,0 +1,55 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/djackets.png",
+            "title": "Website Curated for Djackets",
+            "bodyText": "- Built an e-commerce website from scratch using Django backend and Vue.JS frontend\n -  Developed features to support authentication, ordering, cart, payment etc.\n - Integrated with Razorpay APIs to handle all the payments.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ashutosh-pandey10/djackets_marketplace/tree/developer"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "JavaScript",
+                "Django",
+                "Vue.JS",
+                "SQLite"
+            ]
+        },
+        {
+            "image" : "images/projects/ecooperative.png",
+            "title": "Portal for Online prints",
+            "bodyText": "- Developed a web application that allows students to place online print orders to the campus shop using Flask and SQLite.\n - Built features to support notifications, order status, cart etc.\n - Parsed the pdf documents using Python libraries to capture the image and text artifacts to arrive at a final cost.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ashutosh-pandey10/eCooperativePortal/tree/main"
+                }
+                
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "Tailwind",
+                "SQLite"
+            ]
+        },
+        {
+            "title": "Football Match Notifier",
+            "bodyText": "- Created an application using python standard library that sends push notifications about your favorite football team’s upcoming matches.\n - Used football-data.org API to mine match fixtures and team information.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ashutosh-pandey10/footballMatchNotifier"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Notify2",
+                "Third party integration"
+            ]
+        }
+    ]
+}

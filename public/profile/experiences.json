@@ -1,0 +1,16 @@
+{
+    "experiences": [
+        {
+            "title": "Backend Developer, Consultant",
+            "subtitle": "LTIMindtree",
+            "workType": "Full-time",
+            "workDescription": [
+                "Leading the development of backend systems for employee appreciation and feedback portal for the enterprise. Using Django and Oracle Database for processing and data storage.", 
+                " Enabled 5+ use-cases of ETL by developing applications based on Flask, SQLite, JavaScript and Jinja for processing, transformation and migration of incoming relational datasets. Reduced the turnaround time by 40x compared to the manual processes in place.",
+                "Developed REST APIs in python to automate the selection, upload/download of reports from SAP Concur. Reduced the execution time by 80% compared to the existing processes.", 
+                "Deployed all the aforementioned applications on an internal cloud platform(HICP) using Openshift. Also created webhooks for faster triggering of builds over HICP."
+            ],
+            "dateText": "06/2021 – Present"
+        }
+    ]
+}

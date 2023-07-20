@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Jun 2017 - May 2021",
+            "cardTitle": "B.Tech, Information Technology",
+            "cardSubtitle":"Shri G.S. Institute of Technologya & Science, Indore",
+            "cardDetailedText": "CGPA - 7.02",
+            "icon" : {
+                "src": "images/education/pin.png"
+            }
+        },
+        {
+            "title": "Apr 2016 - May 2017",
+            "cardTitle": "CBSE, Senior Secondary",
+            "cardSubtitle":"Demonstration Multipurpose School, Bhopal",
+            "cardDetailedText": "Marks - 89.00%"
+        }
+    ]
+}
