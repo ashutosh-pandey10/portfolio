@@ -1,7 +1,6 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/djackets.png",
             "title": "Website Curated for Djackets",
             "bodyText": "- Built an e-commerce website from scratch using Django backend and Vue.JS frontend\n -  Developed features to support authentication, ordering, cart, payment etc.\n - Integrated with Razorpay APIs to handle all the payments.",
             "links": [
@@ -19,7 +18,6 @@
             ]
         },
         {
-            "image" : "images/projects/ecooperative.png",
             "title": "Portal for Online prints",
             "bodyText": "- Developed a web application that allows students to place online print orders to the campus shop using Flask and SQLite.\n - Built features to support notifications, order status, cart etc.\n - Parsed the pdf documents using Python libraries to capture the image and text artifacts to arrive at a final cost.",
             "links": [
