@@ -7,15 +7,15 @@ import useDarkMode from 'use-dark-mode';
 import AppContext from './AppContext';
 import MainApp from './MainApp';
 import GlobalStyles from './theme/GlobalStyles';
-import { darkTheme } from './theme/themes';
+import { darkTheme, lightTheme } from './theme/themes';
 
 function App() {
   window.matchMedia = null;
-  const darkMode = useDarkMode(false);
+  const darkMode = useDarkMode(true);
 
   return (
     <AppContext.Provider value={{ darkMode }}>
-      <ThemeProvider theme={darkMode.value ? darkTheme : darkTheme}>
+      <ThemeProvider theme={darkMode.value ? darkTheme : lightTheme}>
         <GlobalStyles />
         <div className="App">
           <BrowserRouter>
